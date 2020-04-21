@@ -3,7 +3,7 @@ body, * {
 }
 
 .App {
-  height: 100vh;
+  height: 100vmin;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -14,8 +14,7 @@ body, * {
   width: 100%;
   padding: 20px;
   font-size: 24px;
-  background-color: grey;
-  color: white;
+  color: black;
   text-align: center;
   letter-spacing: 3px;
 }

@@ -8,7 +8,7 @@ const TacoSelector = (props) => (
             className={props.tacoIdx === idx ? 'selected' : 'color'}
             onClick = {() => props.handleTacoSelection(idx)}
             >
-                {props.tacoIdx === idx ? `Taco ${idx+1} Selected` : `Select Taco ${idx+1}`}
+                {props.tacoIdx === idx ? `Taco ${idx+1} Crunched!` : `Crunch Taco ${idx+1}!`}
             </button>
         )}
     </div>

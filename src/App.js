@@ -19,7 +19,7 @@ class App extends Component {
   render() {
     return(
       <div className="App">
-        <header className="App-header">Select a Taco</header>
+        <header className="App-header">Crunch a Taco!</header>
         <main>
           <TacoSelector 
             tacoNo={tacoNo}
