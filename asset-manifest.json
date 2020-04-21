@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Taco-Cruncher/static/css/main.949bd4d4.chunk.css",
+    "main.js": "/Taco-Cruncher/static/js/main.14ee62c1.chunk.js",
+    "main.js.map": "/Taco-Cruncher/static/js/main.14ee62c1.chunk.js.map",
+    "runtime-main.js": "/Taco-Cruncher/static/js/runtime-main.ce93a432.js",
+    "runtime-main.js.map": "/Taco-Cruncher/static/js/runtime-main.ce93a432.js.map",
+    "static/js/2.1472dc98.chunk.js": "/Taco-Cruncher/static/js/2.1472dc98.chunk.js",
+    "static/js/2.1472dc98.chunk.js.map": "/Taco-Cruncher/static/js/2.1472dc98.chunk.js.map",
+    "index.html": "/Taco-Cruncher/index.html",
+    "precache-manifest.ec129eb313d67ed8957f72d920b47c5b.js": "/Taco-Cruncher/precache-manifest.ec129eb313d67ed8957f72d920b47c5b.js",
+    "service-worker.js": "/Taco-Cruncher/service-worker.js",
+    "static/css/main.949bd4d4.chunk.css.map": "/Taco-Cruncher/static/css/main.949bd4d4.chunk.css.map",
+    "static/js/2.1472dc98.chunk.js.LICENSE.txt": "/Taco-Cruncher/static/js/2.1472dc98.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Taco-Cruncher/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce93a432.js",
+    "static/js/2.1472dc98.chunk.js",
+    "static/css/main.949bd4d4.chunk.css",
+    "static/js/main.14ee62c1.chunk.js"
+  ]
+}
