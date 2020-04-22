@@ -6,4 +6,6 @@
 
 * Click [here](https://lincolnyouree.github.io/Taco-Cruncher/) to start crunching!
 
+## Screenshot:
+
 ![Wireframe](https://i.imgur.com/zll717h.png)
